@@ -1,0 +1,36 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: #fff;
+    color: #434455;
+    font-size: 16px;
+    }
+ ul {
+        list-style-type: none;
+      }
+      
+ a {
+        text-decoration: none;
+      }
+      
+ button {
+        cursor: pointer;
+      }
+.page{
+        background-color: #2e2f42;
+      }
+.page-title{
+        font-weight: 700;
+        font-size: 56px;
+        line-height: 1.07143;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #fff;
+      }
+.page-btn{
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.04em;
+        color: #fff;
+        background-color: #4d5ae5;
+      }
